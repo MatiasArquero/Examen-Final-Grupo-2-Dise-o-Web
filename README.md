@@ -40,7 +40,3 @@ La arquitectura de archivos dentro de la carpeta comprimida entregada mantiene e
 * José Luis F. Bleck Toro
 * José A. Yébenes Torres
 * Matías I. Arquero Chamorro
-
-* José Luis F. Bleck Toro
-* José A. Yébenes Torres
-* Matías I. Arquero Chamorro
