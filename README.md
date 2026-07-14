@@ -8,8 +8,8 @@ El proyecto corresponde al Examen Final de la asignatura **Diseño Web** del Ins
 
 ## 🔗 Enlaces del Proyecto
 
-* **Sitio Web en Producción (Netlify):** 
-* **Repositorio del Código (GitHub):** 
+* **Sitio Web en Producción (Netlify):** https://6a56b544af045c984e5acf2c--sunny-melomakarona-92cdd9.netlify.app/#home
+* **Repositorio del Código (GitHub):** https://github.com/MatiasArquero/Examen-Final-Grupo-2-Dise-o-Web
 
 ---
 
